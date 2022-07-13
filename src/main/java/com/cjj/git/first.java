@@ -10,5 +10,6 @@ public class first {
         System.out.println("master!");
         System.out.println("fix-hot!");
         System.out.println("push!");
+        System.out.println("pull!");
     }
 }
