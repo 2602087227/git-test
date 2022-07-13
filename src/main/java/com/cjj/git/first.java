@@ -9,5 +9,6 @@ public class first {
         System.out.println("hello git5!");
         System.out.println("master!");
         System.out.println("fix-hot!");
+        System.out.println("push!");
     }
 }
